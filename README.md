@@ -1,6 +1,9 @@
 # Hitachi Solusindo Platform
 
 ## Project Description
+
+This is ONLY MOCK UP PROJECT, DOES NOT CORELATED TO ANYONE
+
 This project is the backend for the "Hitachi Solusindo Platform", built from scratch following a comprehensive Business Requirements Document (BRD). It provides a robust and scalable API for managing various business processes, including user authentication, product management, customer data, tax calculations, and transaction processing.
 
 ## Features
@@ -127,4 +130,4 @@ Contributions are welcome! Please follow the existing code style and architectur
 
 ## License
 
-[Specify your license here, e.g., MIT License]
+MIT License
